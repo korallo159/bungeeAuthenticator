@@ -1,0 +1,3 @@
+name: BungeeAuthenticator
+version: ${project.version}
+main: koral.bungeeauthenticator.BungeeAuthenticator

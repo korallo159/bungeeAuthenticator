@@ -1,0 +1,11 @@
+#db connection
+
+isConfirmServer: false
+
+jdbcurl:
+username:
+password:
+
+hasPremium: 'To konto ma już przypisane premium na naszym serwerze'
+hasAccount: 'Aby otrzymać konto premium, wyrejestruj konto na jbwm.pl komendą /unregister a następnie połącz się z premium.jbwm.pl ponownie jest to zabezpieczenie, przed kradzieżą kont'
+success: 'Pomyślnie zweryfikowałeś swoje konto, dziękujemy za grę!'
